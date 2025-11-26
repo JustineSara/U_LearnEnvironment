@@ -1,0 +1,2 @@
+open thelink in the error description
+replace "WinBtnClose" by "ToolbarSearchCancelButton"

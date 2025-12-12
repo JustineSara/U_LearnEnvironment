@@ -52,7 +52,7 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "Esc",
+                    "name": "Reset",
                     "type": "Button",
                     "id": "eff16cc8-b123-4433-8a87-1063be0d8268",
                     "expectedControlType": "",
@@ -252,11 +252,11 @@
                 {
                     "name": "",
                     "id": "70aa0f26-e551-47fd-ae6c-048112f70882",
-                    "path": "<Keyboard>/escape",
+                    "path": "<Keyboard>/delete",
                     "interactions": "",
                     "processors": "",
                     "groups": ";KeyboardMouse",
-                    "action": "Esc",
+                    "action": "Reset",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

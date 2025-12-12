@@ -9,6 +9,7 @@ TagManager:
   - As
   - Bs
   - Cs
+  - Ds
   layers:
   - Default
   - TransparentFX

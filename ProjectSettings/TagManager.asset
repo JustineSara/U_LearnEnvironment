@@ -6,6 +6,10 @@ TagManager:
   tags:
   - CinemachineTarget
   - Terrain
+  - As
+  - Bs
+  - Cs
+  - Ds
   layers:
   - Default
   - TransparentFX
